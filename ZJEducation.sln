@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{632FDE26-B4DA-B156-BB8C-47F4E801438C}") = "ZJEducation", "Assembly-CSharp.csproj", "{7F06469D-DD57-CC8C-4308-F30D56A26AA8}"
+EndProject
+Project("{632FDE26-B4DA-B156-BB8C-47F4E801438C}") = "ZJEducation", "Assembly-CSharp-Editor.csproj", "{C268989B-A697-3571-90CC-9039E3B93D55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F06469D-DD57-CC8C-4308-F30D56A26AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F06469D-DD57-CC8C-4308-F30D56A26AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F06469D-DD57-CC8C-4308-F30D56A26AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F06469D-DD57-CC8C-4308-F30D56A26AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C268989B-A697-3571-90CC-9039E3B93D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C268989B-A697-3571-90CC-9039E3B93D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C268989B-A697-3571-90CC-9039E3B93D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C268989B-A697-3571-90CC-9039E3B93D55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
